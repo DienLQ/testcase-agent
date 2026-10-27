@@ -1,0 +1,4 @@
+interface:
+  display_name: "UP Testcase"
+  short_description: "Generate evidence-based PRD/SRS test cases"
+  default_prompt: "Use $up-testcase to run `start <feature-id>` after configured PRD inputs are available."
